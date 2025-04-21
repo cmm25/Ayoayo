@@ -1,4 +1,4 @@
-Initial Thoughts
+# Initial Thoughts
 
 As I read the Ayoayo for the first time, I was interested but confused. I had never seen the game played before, so I read the rules over and over again so I knew how to play it correctly. I was fascinated by the fact that the pieces move round to the left, how to capture a piece, and that one must "take another turn," but it might be difficult to learn.
 
@@ -11,7 +11,7 @@ Initially, I had a few ideas that I incorporated into my design:
 
 For the Player class, I kept it straightforward since it only required a name. I put much thought trying to organize the playGame method, particularly how to manage special cases if a player is given a bonus turn or scoops seeds from the opposite pit.
 
-Final Thoughts
+# Final Thoughts
 
 
 I kept referring to the rules document as I was coding simply to check that I was doing it correctly. It is strange how something easy to read is made more difficult once you begin to code!
